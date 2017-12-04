@@ -8,7 +8,7 @@
 # mtx <- matrix(rnorm(100), 10, 10)
 
 # An example of how to run:
-# mx <- makecachematrix(mtx)
+# mx <- makeCacheMatrix(mtx)
 # cacheSolve(mx)
 
 # A short comment describing this function:
